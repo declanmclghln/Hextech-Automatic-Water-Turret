@@ -5,7 +5,7 @@ Powered by the Hextech muscle board, the automatic water turret is used to water
 A video of the robot operating can be found and downloaded in [Demo (5).mp4](DEMO%20(5).mp4)
 
 # Assembly 
-- 3d print all provided design files and order all excess materials. Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
+- 3d print all provided design files and order all excess materials. 3d Printed Designs are fround in [3d Water Turret](3d%20Water%20Turret) Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
 - 
 
 # Code Overview
