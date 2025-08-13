@@ -5,8 +5,10 @@ Powered by the Hextech muscle board, the automatic water turret is used to water
 A video of the robot operating can be found and downloaded in [Demo (5).mp4](DEMO%20(5).mp4)
 
 # Assembly 
-- 3d print all provided design files and order all excess materials. 3d Printed Designs are fround in [3d Water Turret](3d%20Water%20Turret) Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
-- 
+- 3d print all provided design files and order all excess materials. 3d Printed Designs are fround in [3d Water Turret](3d%20Water%20Turret). Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
+- Join all the parts with screws ranging from M3-M5 [Top to bottom: base, lazy susan, disk gear, turret body, tilt bracket]
+- Put the hose through the body and hold it in place with screws at the tilting bracket
+
 
 # Code Overview
 The code was completed in VSCode using python from the Hextech Library. The completed code used is found in [Water Turret Code](Water%20Turret%20Code/water_turret.py)
