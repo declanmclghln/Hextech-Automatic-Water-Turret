@@ -2,7 +2,7 @@
 Powered by the Hextech muscle board, the automatic water turret is used to water plants efficiently spreading water throughout the area without the need of physical labor. 
 
 # Demo Video
-A video of the robot operating can be found and downloaded in 
+A video of the robot operating can be found and downloaded in [Demo (5).mp4](DEMO%20(5).mp4)
 
 # Assembly 
 Pictures, materials, and explanations of  assembly are provided in the file. 
