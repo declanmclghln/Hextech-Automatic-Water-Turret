@@ -17,8 +17,8 @@ The code was completed in VSCode using python from the Hextech Library. The comp
 
 # Challenges (possible)
 - Running out of water if using source with minimal water
-  
+- Tilt bracket minimal movement depending on hose flexibility
 
 
 # Lessons Learned
-Before I built this robot I had only worked with Hetxtech once with another robot. Throughout the creation of the water turret I learnt how gears can be utilized, how parts or pieaces that have a main purpose can be used for other tasks, and how to efficiently code with multiple motors. Due to Hextech, I am able to have an easy and successful hands on experience with inventing, building, designing, coding, and much more..
+Before I built this robot I had only worked with Hetxtech once with another robot. Throughout the creation of the water turret I learnt how gears can be utilized, how parts or pieaces that have a main purpose can be used for other tasks, and how to efficiently code with multiple motors. Due to Hextech, I am able to have an easy and successful hands on experience with inventing, building, designing, coding, and much more.
