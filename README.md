@@ -5,8 +5,8 @@ Powered by the Hextech muscle board, the automatic water turret is used to water
 A video of the robot operating can be found and downloaded in [Demo (5).mp4](DEMO%20(5).mp4)
 
 # Assembly 
-Pictures, materials, and explanations of  assembly are provided in the file. 
-[Water Turret PDF](./Automatic%20Page%20Turner.pdf). Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
+- 3d print all provided design files and order all excess materials. Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
+- 
 
 # Code Overview
 The code was completed in VSCode using python from the Hextech Library. The completed code used is found in [Water Turret Code](Water%20Turret%20Code/water_turret.py)
@@ -15,6 +15,7 @@ The code was completed in VSCode using python from the Hextech Library. The comp
 
 # Challenges (possible)
 - Running out of water if using source with minimal water
+  
 
 
 # Lessons Learned
