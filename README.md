@@ -9,7 +9,7 @@ Pictures, materials, and explanations of  assembly are provided in the file.
 [Water Turret PDF](./Automatic%20Page%20Turner.pdf). Listed materials on a sheet are found in [Water Turret Materials](Water%20Turret%20.xlsx)
 
 # Code Overview
-The code was completed in VSCode using python from the Hextech Library. The completed code used is found in [Water Turret](Hextech-Automatic-Page-Turner/CODE/auto%20page%20turner)
+The code was completed in VSCode using python from the Hextech Library. The completed code used is found in [Water Turret Code](Water%20Turret%20Code/water_turret.py)
 
 
 
